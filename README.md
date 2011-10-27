@@ -3,6 +3,9 @@ It's a PHP based script that generates placeholder graphics for use in visual mo
 
 php-placeholder includes [Jason Kottke's Silkscreen font](http://kottke.org/plus/type/silkscreen/) for generated text.
 
+## Examples
+![php-placeholder-1](http://dl.dropbox.com/u/23890/ex/php-placeholder-1.png) &nbsp; ![php-placeholder-2b](http://dl.dropbox.com/u/23890/ex/php-placeholder-2b.png)
+
 ## Installation
 Couldn't be simpler. Download it, drop it in a folder, and hot link to the script from your page. It just requires a relatively recent version of PHP with GD installed.
 
